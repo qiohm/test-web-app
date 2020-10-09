@@ -9,8 +9,8 @@ const Todo = () => {
     {/*_________________Titre de la Card______________________*/}
 
         <div className="card-header">
-            <h2 className="card-title mt-1 ">Titre de la Tâche<span className="badge rounded-pill bg-secondary mx-4 font-weight-light">todo category</span></h2>
-            <p className="">date</p>
+            <h2 className="card-title mt-1 ">Titre de la Tâche : Lose Anger<span className="badge rounded-pill bg-secondary mx-4 font-weight-light">todo category</span></h2>
+            <p className="">date : today</p>
         </div>
     {/*_____________Description de la Card__________________*/}
 
