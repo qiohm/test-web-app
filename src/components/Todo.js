@@ -9,17 +9,15 @@ const Todo = () => {
     {/*_________________Titre de la Card______________________*/}
 
         <div className="card-header">
-            <h2 className="card-title mt-1 ">Titre de la Carte<span className="badge rounded-pill bg-secondary mx-4 font-weight-light">category badge</span></h2>
+            <h2 className="card-title mt-1 ">Titre de la Tâche<span className="badge rounded-pill bg-secondary mx-4 font-weight-light">todo category</span></h2>
             <p className="">date</p>
         </div>
     {/*_____________Description de la Card__________________*/}
 
         <div className="card-body col">
-                <p className="card-text"> <u>card Description</u> :
+                <p className="card-text"> <u>todo description</u> :
 
-  Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.
-
- </p>
+                The first drawback of anger is that it destroys your inner peace; the second is that it distorts your view of reality. If you think about this and come to understand that anger is really unhelpful, that it is only destructive, you can <strong>begin to distance yourself from anger. </strong></p>
         </div>
     {/* ________Edit Task Button________ */}
 
