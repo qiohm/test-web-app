@@ -4,7 +4,7 @@ import React from 'react'
 
 const Todo = () => {
     return (
-    <div className="container card">
+    <div className=" container card shadow m-1  mx-auto">
 <div className="row">
     {/*_________________Titre de la Card______________________*/}
 
